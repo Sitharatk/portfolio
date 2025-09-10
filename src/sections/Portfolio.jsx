@@ -298,7 +298,7 @@ function Portfolio() {
     </h2>
 
     <div className="space-y-8">
-      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-300">
+      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-blue-500/20 transform hover:-translate-y-2 ">
         <h3 className="text-2xl font-semibold text-white">MERN Stack Developer Intern</h3>
         <p className="text-gray-400">Sep 2024 – Feb 2025 | BridgeOn Solution, Malappuram, Kerala</p>
         <ul className="mt-4 list-disc list-inside text-gray-300 space-y-2">
@@ -308,13 +308,15 @@ function Portfolio() {
         </ul>
       </div>
 
-      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-300">
+      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-300 hover:border-blue-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-blue-500/20 transform hover:-translate-y-2">
         <h3 className="text-2xl font-semibold text-white">Software Engineer Intern</h3>
         <p className="text-gray-400">July 2025 – Present | Zennode Technologies, Kozhikode, Kerala</p>
         <ul className="mt-4 list-disc list-inside text-gray-300 space-y-2">
-          <li>Working closely with senior developers to implement best software engineering practices.</li>
-          <li>Gaining hands-on experience with modern development tools and collaborative workflows including Git and Agile methodology.</li>
-        </ul>
+         <li>Collaborating with senior developers to design, develop, and optimize scalable web applications.</li>
+
+<li>Applying best practices in software engineering, including clean code principles, debugging, and performance improvements.</li>
+
+<li>Gaining hands-on experience with modern development tools and workflows such as Git, code reviews, and Agile methodology.</li></ul>
       </div>
     </div>
   </div>
@@ -328,25 +330,25 @@ function Portfolio() {
     </h2>
 
     <div className="grid md:grid-cols-2 gap-8">
-      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-300">
+      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-blue-500/20 transform hover:-translate-y-2">
         <h3 className="text-xl font-semibold text-white">Deloitte Data Analytics Job Simulation</h3>
         <p className="text-gray-400">April 2025</p>
         <p className="mt-2 text-gray-300">Completed practical tasks in data analysis and forensic technology.</p>
       </div>
 
-      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-300">
+      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-blue-500/20 transform hover:-translate-y-2">
         <h3 className="text-xl font-semibold text-white">Machine Learning and Data Science Internship</h3>
         <p className="text-gray-400">Sept 2023</p>
         <p className="mt-2 text-gray-300">Participated in a two-week training program on machine learning and data science concepts.</p>
       </div>
 
-      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-300">
+      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-blue-500/20 transform hover:-translate-y-2">
         <h3 className="text-xl font-semibold text-white">Flutter Development Internship</h3>
         <p className="text-gray-400">May 2023</p>
         <p className="mt-2 text-gray-300">Completed a two-week hands-on internship focusing on building mobile applications using Flutter.</p>
       </div>
 
-      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-300">
+      <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-blue-500/20 transform hover:-translate-y-2">
         <h3 className="text-xl font-semibold text-white">Saylor Academy: Computer Architecture</h3>
         <p className="text-gray-400">May 2022</p>
         <p className="mt-2 text-gray-300">Completed a comprehensive course on Computer Architecture fundamentals.</p>
