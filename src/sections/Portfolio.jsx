@@ -172,7 +172,7 @@ function Portfolio() {
 </p>
 
 <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-  My core expertise lies in <span className="text-white font-medium">JavaScript, React,Nextjs,Typscript, Tailwind CSS, and Redux</span>, with additional experience in 
+  My core expertise lies in <span className="text-white font-medium">JavaScript, React,Nextjs,Typscript, TailwindCSS,HTML, CSS,Wordpress and Redux</span>, with additional experience in 
   backend technologies like <span className="text-white font-medium">Node.js and Express</span>. I'm always eager to learn new frameworks, tools, 
   and best practices to stay updated in the fast-evolving tech landscape.
 </p>
