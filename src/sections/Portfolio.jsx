@@ -172,7 +172,7 @@ function Portfolio() {
 </p>
 
 <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-  My core expertise lies in <span className="text-white font-medium">JavaScript, React, Tailwind CSS, and Redux</span>, with additional experience in 
+  My core expertise lies in <span className="text-white font-medium">JavaScript, React,Nextjs,Typscript, Tailwind CSS, and Redux</span>, with additional experience in 
   backend technologies like <span className="text-white font-medium">Node.js and Express</span>. I'm always eager to learn new frameworks, tools, 
   and best practices to stay updated in the fast-evolving tech landscape.
 </p>
@@ -314,9 +314,10 @@ function Portfolio() {
         <ul className="mt-4 list-disc list-inside text-gray-300 space-y-2">
          <li>Collaborating with senior developers to design, develop, and optimize scalable web applications.</li>
 
-<li>Applying best practices in software engineering, including clean code principles, debugging, and performance improvements.</li>
+<li>Involved in plugin development and enhancement for real-time products.</li>
 
-<li>Gaining hands-on experience with modern development tools and workflows such as Git, code reviews, and Agile methodology.</li></ul>
+<li>Gaining hands-on experience with modern development tools and workflows such as Git, code reviews, and Agile methodology.</li>
+        <li>Contributing to solving client-reported issues by handling developer-assigned tickets efficiently.</li></ul>
       </div>
     </div>
   </div>
