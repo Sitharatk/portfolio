@@ -299,7 +299,7 @@ function Portfolio() {
     <div className="space-y-8">
       <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-300 hover:border-blue-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-blue-500/20 transform hover:-translate-y-2">
         <h3 className="text-2xl font-semibold text-white">Software Engineer</h3>
-        <p className="text-gray-400">July 2025 – Present | Zennode Technologies, Kozhikode, Kerala</p>
+        <p className="text-gray-400"> Nov 2025 – Present | Zennode Technologies, Kozhikode, Kerala</p>
         <ul className="mt-4 list-disc list-inside text-gray-300 space-y-2">
         <li>Involved in plugin development and enhancement for real-time products.</li>
         <li>Contributing to solving client-reported issues by handling developer-assigned tickets efficiently.</li>
@@ -308,7 +308,7 @@ function Portfolio() {
       
       <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 border border-white/10 hover:border-blue-400/50 transition-all duration-300 hover:border-blue-400/50 transition-all duration-500 hover:shadow-2xl hover:shadow-blue-500/20 transform hover:-translate-y-2">
         <h3 className="text-2xl font-semibold text-white">Software Engineer Intern</h3>
-        <p className="text-gray-400">July 2025 – Present | Zennode Technologies, Kozhikode, Kerala</p>
+        <p className="text-gray-400">July 2025 – oct 2025 | Zennode Technologies, Kozhikode, Kerala</p>
         <ul className="mt-4 list-disc list-inside text-gray-300 space-y-2">
          <li>Collaborating with senior developers to design, develop, and optimize scalable web applications.</li>
         <li>Involved in website redesign and solving client-reported issues by handling developer-assigned tickets efficiently</li>
